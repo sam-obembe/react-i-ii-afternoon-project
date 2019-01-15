@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700|Thasadith:400,700');
+
+header{
+  background-color: cyan;
+  height: 50px;
+}
+
+body{
+  background-color: black;
+  font-family: 'Thasadith',sans-serif;
+}
+
+.main{
+  background-color: white;
+  width: 70vw;
+  margin-left: 15vw;
+  border-radius: 20px 20px 20px 20px
+}
+
+a{
+  font-weight: bold;
+  color: black;
+  margin-left: 20%;
+  text-decoration: none;
+}
+
+a, p{
+  font-family: 'Thasadith', sans-serif;
+  font-size: 16px;
+}
+
+
+h2{
+  font-family: 'Oswald',sans-serif;
+  font-size: 30px;
+  color:black;
+  margin-left: 40px;
+}
+
+#subtitle{
+  margin-left: 40px;
+}
+
+.would{
+  margin-left: 10%;
+}
+
+
+#directory{
+  float: right;
+  margin-right: 20%;
+}
+
+#studID{
+  float: right;
+  margin-right: 10px;
+}
+
+button{
+  background-color: white;
+  width: 200px;
+  border-radius: 0.5;
+  margin: auto;
+}
+
+#buttonsContainer{
+  margin-left: 20%;
+  margin-bottom: 100px;
+}
